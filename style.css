@@ -1,0 +1,52 @@
+html, Body{
+    margin: 15px;
+    background-color: maroon;
+    background-size: 100%;
+}
+.button{
+	background-color: violet;
+	border: 10px solid black
+	width: 50px;
+	height: 20px;
+	margin: 0;
+	padding: 100px;
+	float: left;
+	font-size: 64px;
+	text-transform: uppercase;
+	font-family: 'Bangers', cursive;
+	font-weight: "800";
+	position: absolute;
+	top: 20px;
+	right:250px;
+	border: 5px solid #f5f5f5;
+    cursor: pointer;
+    text-align: center;
+}
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: lightcoral;
+    font-size: 100px;
+    text-align: 50px;
+    font-family: 'Shadows Into Light Two', cursive;
+    border: 500px;
+    border-color: red;
+    font-weight: 800px;
+    border-bottom-color: darkviolet;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background: url("bg3.jpeg") 0 0 no-repeat fixed;
+    background-size: 100%;
+    
+
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: lightcoral;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
